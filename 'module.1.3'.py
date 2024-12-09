@@ -1,8 +1,6 @@
-name = "Роман"
-print( name )
-age = (22)
-print(age)
-new_age = (23)
-print(new_age)
-is_student = True
-print( is_student)
+course ="Python"
+a = 12
+b = 1.5
+c = ( b / a)
+print(c)
+print( course,'всего задач', a , 'затрачено часов', b ,'среднее время выполнения', c)
